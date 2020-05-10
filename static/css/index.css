@@ -1,0 +1,29 @@
+html{
+  background-color: #bdeaf2;
+}
+
+#name-holder div{
+  justify-content: end;
+
+	width: 350px;
+	height: 65px;
+
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	margin: auto;
+}
+#name-holder form input{
+  border: 1px double grey;
+
+  height:65px;
+  width:350px;
+
+  background-color: #b5e8d9;
+
+  font-size:130%;
+  text-align:center;
+}
